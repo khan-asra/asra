@@ -14,6 +14,7 @@ package ex2_1;
  * @author Asra
  */
 public class Customer {
+    
     private String customerName;
     private String phone;
     private Bicycle bike;
