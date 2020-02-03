@@ -1,11 +1,11 @@
 /*
-        Name:  [your name here]
-        Assignment:  [assignment name]
-        Program: [your program name here]
-        Date:  [assignment due date here]
+        Name:  Asra khan
+       
+        Program: BikeRegistration
+        Date:  jan 2020
     
         Description:
-        [program description in your own words]
+        
  */
 package ex2_1;
 
