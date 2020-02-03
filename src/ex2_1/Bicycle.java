@@ -14,6 +14,7 @@ package ex2_1;
  * @author Asra
  */
 public class Bicycle {
+    //data members of bicycle
     private String tagNo;
    private Customer renter;
 

@@ -21,6 +21,7 @@ public class BikeRegistration {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //main method 
 
         // TODO code application logic here
         Scanner input= new Scanner(System.in);
